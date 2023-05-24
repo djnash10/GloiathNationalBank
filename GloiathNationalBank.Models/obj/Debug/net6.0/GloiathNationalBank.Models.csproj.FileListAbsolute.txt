@@ -1,0 +1,12 @@
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\bin\Debug\net6.0\GloiathNationalBank.Models.deps.json
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\bin\Debug\net6.0\GloiathNationalBank.Models.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\bin\Debug\net6.0\GloiathNationalBank.Models.pdb
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.csproj.AssemblyReference.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.AssemblyInfoInputs.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.AssemblyInfo.cs
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.csproj.CoreCompileInputs.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\refint\GloiathNationalBank.Models.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\GloiathNationalBank.Models.pdb
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Models\obj\Debug\net6.0\ref\GloiathNationalBank.Models.dll

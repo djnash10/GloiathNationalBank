@@ -1,0 +1,17 @@
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\bin\Debug\net6.0\GloiathNationalBank.Data.deps.json
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\bin\Debug\net6.0\GloiathNationalBank.Data.runtimeconfig.json
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\bin\Debug\net6.0\GloiathNationalBank.Data.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\bin\Debug\net6.0\GloiathNationalBank.Data.pdb
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\bin\Debug\net6.0\GloiathNationalBank.Models.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\bin\Debug\net6.0\GloiathNationalBank.Models.pdb
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.csproj.AssemblyReference.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.AssemblyInfoInputs.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.AssemblyInfo.cs
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.csproj.CoreCompileInputs.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.csproj.CopyComplete
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\refint\GloiathNationalBank.Data.dll
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.pdb
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\GloiathNationalBank.Data.genruntimeconfig.cache
+E:\Programacion\GloiathNationalBank\GloiathNationalBank.Data\obj\Debug\net6.0\ref\GloiathNationalBank.Data.dll
